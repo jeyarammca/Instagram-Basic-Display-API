@@ -50,9 +50,8 @@ Now Done For FACEBOOK APP CREATION!!!! -;)
 <br><br>
 
 Check the Index.php file and Config.php file update the your necessary settings.
-
-
-
+<br>
+Cheers!!!!
 
 
 
